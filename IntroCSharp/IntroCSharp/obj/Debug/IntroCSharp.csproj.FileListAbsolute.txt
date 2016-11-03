@@ -1,0 +1,6 @@
+c:\users\maintenance\documents\visual studio 2015\Projects\IntroCSharp\IntroCSharp\bin\Debug\IntroCSharp.exe.config
+c:\users\maintenance\documents\visual studio 2015\Projects\IntroCSharp\IntroCSharp\bin\Debug\IntroCSharp.exe
+c:\users\maintenance\documents\visual studio 2015\Projects\IntroCSharp\IntroCSharp\bin\Debug\IntroCSharp.pdb
+c:\users\maintenance\documents\visual studio 2015\Projects\IntroCSharp\IntroCSharp\obj\Debug\IntroCSharp.csprojResolveAssemblyReference.cache
+c:\users\maintenance\documents\visual studio 2015\Projects\IntroCSharp\IntroCSharp\obj\Debug\IntroCSharp.exe
+c:\users\maintenance\documents\visual studio 2015\Projects\IntroCSharp\IntroCSharp\obj\Debug\IntroCSharp.pdb
